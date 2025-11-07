@@ -1,34 +1,29 @@
- [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah) 
+# IBM Data Analyst Capstone Project
 
-# Data Visualization Dashboards Excel Cognos <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+You have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants.  In order to keep pace with changing technologies and remain competitive, your organization regularly analyzes data to help identify future skill requirements. 
 
-## About this Course
-This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. Begin the process of telling a story with your data by creating the many types of charts that are available in spreadsheets like Excel. Explore the different tools of a spreadsheet, such as the important pivot function and the ability to create dashboards and learn how each one has its own unique property to transform your data. Continue to gain valuable experience by becoming familiar with the popular analytics tool - IBM Cognos Analytics - to create interactive dashboards.
+As a Data Analyst, you will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
 
-## Assets
+Your first task is to collect the top programming skills that are most in demand from various sources including:
 
-* ### **Excel Dashboard**
+    Job postings
 
-<p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/W2Dashboard.PNG" width=100% height=100%>
+    Training portals
 
-<p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Excel_FA.PNG" width=100% height=100%>
+    Surveys
 
-* ### **IBM Cognos Dashboard**
+Once you have collected enough data, you will begin analyzing the data and identify insights and trends that may include the following:
 
-<p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_1.PNG" width=100% height=100%>
+    What are the top programming languages in demand?
 
-<p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_2.PNG" width=100% height=100%>
+    What are the top database skills in demand?
 
-<p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Advanced.PNG" width=100% height=100%>
+    What are the popular IDEs?
 
-<p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_1.PNG" width=100% height=100%>
+You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.   
+ 
+Once this is completed, you will make that data ready for analysis using data wrangling techniques. 
+ 
+When the data is ready you will then want to apply statistical techniques to analyze the data.  Then bring all of your information together by using  IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation.
 
-<p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_2.PNG" width=100% height=100%>
+You will be evaluated using quizzes in each module as well as the final project presentation.
